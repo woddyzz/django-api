@@ -4,7 +4,7 @@ A RESTful API for managing restaurant operations, including user authentication,
 
 ---
 
-## 📌 Authentication & User Management
+## Authentication & User Management
 
 ### User registration and token generation
 ![User registration and token generation endpoints](endpoints/users.png)
@@ -14,28 +14,28 @@ A RESTful API for managing restaurant operations, including user authentication,
 
 ---
 
-## 🍽️ Menu Management
+## Menu Management
 
 ### Menu item endpoints
 ![Menu items endpoints](endpoints/menu.png)
 
 ---
 
-## 🛒 Cart Management
+## Cart Management
 
 ### Cart endpoints
 ![Cart management endpoints](endpoints/cart.png)
 
 ---
 
-## 📦 Order Management
+## Order Management
 
 ### Order endpoints
 ![Order management endpoints](endpoints/order.png)
 
 ---
 
-## 👥 Mock Users (For Testing)
+## Mock Users (For Testing)
 
 | Role            | Username          | Password        |
 |-----------------|-------------------|-----------------|
@@ -44,3 +44,4 @@ A RESTful API for managing restaurant operations, including user authentication,
 | Delivery Crew   | delivery_crew     | delivery@786!  |
 | Customer        | customer_lemon    | customer@786!  |
 | Customer        | customer_second   | customer@786!  |
+
